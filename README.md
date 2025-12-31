@@ -1,2 +1,1 @@
-
-# I am Rabiul Islam Niloy. I am a student for Daffodil International University.I solve some beecroud problem and upload to my github .It will help new programmer to solve problem.
+#This repository contains solutions to programming challenges from Beecrowd. It serves as a structured archive of problem-solving approaches, algorithms, and coding techniques, designed to help with competitive programming practice and skill development.
